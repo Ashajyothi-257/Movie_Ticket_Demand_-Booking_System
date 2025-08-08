@@ -1,0 +1,9 @@
+Python 3.8+
+Streamlit
+Pandas
+NumPy
+Scikit-learn
+XGBoost
+Matplotlib
+Joblib
+
